@@ -9,4 +9,5 @@ I work in the cybersecurity field specialized in offensive security with a keen 
 In particular: 
 
 - Red teaming
-- Penetration testing
+- Web application penetration testing
+- Wireless technique
