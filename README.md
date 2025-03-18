@@ -4,10 +4,4 @@
 
 ## About Me
 
-I work in the cybersecurity field specialized in offensive security with a keen interest in learning new technologies.
-
-In particular: 
-
-- Red teaming
-- Web application penetration testing
-- Wireless technique
+I work in the cybersecurity field specialized in offensive security with a keen interest in learning new technologies, in particular Red teaming & Web application penetration testing
