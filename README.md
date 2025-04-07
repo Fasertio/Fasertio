@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co/DfvZXG8K/75c62e19a9bc9136f17968ab7b9d2ac6.jpg"  />
-</div>
-
 ###
 
 <h2 align="left">Hi, Fasertio here 👋!</h2>
